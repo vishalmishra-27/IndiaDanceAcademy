@@ -41,8 +41,7 @@ body {
 
 #info h1 {
     font-family: 'Cairo Play', sans-serif;
-    color: #0e0e0e;
-    text-shadow: 0 0 #c52424;
+    color: #ff4b4b;
 }
 
 @keyframes animation3 {
